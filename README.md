@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">A Data Science and Analytics Enthusiast.</h3>
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/70203777/243173180-d284bbf4-c3c1-4b86-9238-36d87b2e01f3.gif">
+<img align="right" alt="Coding" width="800" src="https://user-images.githubusercontent.com/70203777/243173180-d284bbf4-c3c1-4b86-9238-36d87b2e01f3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanitiwari19&label=Profile%20views&color=0e75b6&style=flat" alt="shivanitiwari19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanitiwari19" alt="shivanitiwari19" /></a> </p>
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shivanitiwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanitiwarii" height="30" width="40" /></a>
 <a href="https://instagram.com/shivanitiwariii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanitiwariii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shivanitiwariii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivanitiwariii" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWVkjhjItbbjWwZOWc-Tntg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivanitiwariii" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivani21proh/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivani21proh/profile" height="30" width="40" /></a>
 </p>
 
