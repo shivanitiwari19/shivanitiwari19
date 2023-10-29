@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanitiwari19" alt="shivanitiwari19" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analytics Techniques in Python and DSA in Java**
-- ⚡ Fun fact **In my free time you will find me with my guitar!**
+- ⚡ Fun fact about me- **In my free time you'll find me with my guitar!**
 - 📫 Reach me at **shivanitiwari1903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
