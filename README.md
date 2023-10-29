@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">A Data Science and Analytics Enthusiast.</h3>
-<img align="right" alt="Coding" width="800" src="https://user-images.githubusercontent.com/70203777/243173180-d284bbf4-c3c1-4b86-9238-36d87b2e01f3.gif">
+<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/70203777/243173180-d284bbf4-c3c1-4b86-9238-36d87b2e01f3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanitiwari19&label=Profile%20views&color=0e75b6&style=flat" alt="shivanitiwari19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanitiwari19" alt="shivanitiwari19" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analytics Techniques in Python and DSA in Java**
-
+- ⚡ Fun fact **In my free time you will find me with my guitar!**
 - 📫 Reach me at **shivanitiwari1903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
